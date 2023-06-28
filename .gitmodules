@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ENMTools"]
 	path = ENMTools
 	url = https://github.com/danlwarren/enmtools
-	shallow = true
-	registered = true
 [submodule "rwty"]
 	path = rwty
 	url = https://github.com/danlwarren/rwty
-	shallow = true
-	registered = true
