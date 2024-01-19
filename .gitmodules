@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ENMTools"]
 	path = ENMTools
-	url = https://github.com/cran/ENMTools
+	url = https://github.com/danlwarren/enmtools
 [submodule "rwty"]
 	path = rwty
 	url = https://github.com/danlwarren/rwty
